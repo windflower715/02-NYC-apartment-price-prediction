@@ -1,18 +1,18 @@
 **Objective**\
 Predict NYC apartment price based on location and apartment features
 
-#Data
+**Data**\
 Scraped data from renthop.com,
 
-#Algorithm
+**Algorithm**\
 Statsmodel, Regularization, Cross Validation, Normalization
 
-# Tools
+**Tools**\
 Scrapy
 Pandas, Numpy, Matplotlib, Seaborn
 Scikit-Learn
 
-#More at
+**More at**\
 https://symj07.wordpress.com/2018/01/31/luther-nyc-rental-price-prediction/
 
 
