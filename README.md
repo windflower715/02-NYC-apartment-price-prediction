@@ -2,7 +2,7 @@
 Predict NYC apartment price based on location and apartment features
 
 **Data**\
-Scraped data from renthop.com,
+Scraped data from renthop.com
 
 **Algorithm**\
 Statsmodel, Regularization, Cross Validation, Normalization
