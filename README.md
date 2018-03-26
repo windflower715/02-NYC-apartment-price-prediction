@@ -1,4 +1,4 @@
-**Objective**
+**Objective**\
 Predict NYC apartment price based on location and apartment features
 
 #Data
